@@ -29,4 +29,4 @@ A console-based **Restaurant Management System** developed in **C++**.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/RestaurantManagementSystem.git
+git clone https://github.com/amanfarid/RestaurantManagementSystem.git
